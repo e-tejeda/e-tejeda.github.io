@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Investigación"
+    url: /investigacion/
+  - title: "Docencia"
+    url: /docencia/
+  - title: "Divulgación"
+    url: /divulgacion/
