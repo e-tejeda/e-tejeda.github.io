@@ -1,0 +1,39 @@
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+locale: es-MX
+title: "Emilio Tejeda"
+description: "Sitio web personal y académico de Emilio Tejeda, investigador en astrofísica teórica y numérica."
+url: "https://e-tejeda.github.io"
+
+author:
+  name: "Emilio Tejeda"
+  bio: "Investigador por México (SECIHTI) — Instituto de Física y Matemáticas, UMSNH"
+  email: "emilio.tejeda@umich.mx"
+  links:
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://orcid.org/0000-0001-9936-6165"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.es/citations?user=k_rEP1IAAAAJ&hl=es"
+    - label: "NASA / ADS"
+      icon: "fas fa-fw fa-satellite"
+      url: "https://ui.adsabs.harvard.edu/public-libraries/rahLI8RyTbShGnUj2obzzQ"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:emilio.tejeda@umich.mx"
+
+footer:
+  links:
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://orcid.org/0000-0001-9936-6165"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.es/citations?user=k_rEP1IAAAAJ&hl=es"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+include: ["_pages"]
