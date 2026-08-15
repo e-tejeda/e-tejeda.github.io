@@ -2,6 +2,7 @@
 title: "Divulgacion"
 permalink: /divulgacion/
 layout: single
+author_profile: true
 header:
   overlay_image: https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014619/5-Black_hole_grid_approach-4K.00001_print.jpg
   overlay_filter: 0.5
