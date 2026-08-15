@@ -1,0 +1,12 @@
+---
+---
+
+@charset "utf-8";
+
+$link-color: #2D3452;
+$masthead-link-color: #2D3452;
+$masthead-link-color-hover: #B5730E;
+$navicon-link-color-hover: #B5730E;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
