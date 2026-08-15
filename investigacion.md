@@ -16,7 +16,7 @@ header:
   **Modelado relativista e hidrodinamica**
   Desarrollo e implementacion de modelos y herramientas numericas para capturar efectos relativistas en el comportamiento de fluidos e interacciones astrofisicas.
 
-  ## Publicaciones
+## Publicaciones
 
   A continuacion se presenta un acceso directo a la lista completa de publicaciones actualizadas en repositorios y bases de datos academicas:
 
