@@ -2,6 +2,7 @@
 title: "Investigacion"
 permalink: /investigacion/
 layout: single
+author_profile: true
 header:
   overlay_image: https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014619/2-Orbiting_a_black_hole-HD.00001_print.jpg
   overlay_filter: 0.5
