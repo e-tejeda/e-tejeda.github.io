@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 <style>.page__title{display:none;}</style>
-<div style="width:100%;height:220px;background:#EEF0F3;border-radius:6px;display:flex;align-items:center;justify-content:center;margin-bottom:8px;color:#8A8E97;font-family:monospace;font-size:0.8rem;">Foto profesional del investigador — pendiente</div>
+<div style="width:100%;height:220px;background:#EEF0F3;border-radius:6px;display:flex;align-items:center;justify-content:center;margin-bottom:8px;color:#8A8E97;font-family:monospace;font-size:0.8rem;">Foto profesional de Emilio — pendiente</div>
 
 **Investigador por México (SECIHTI) — Instituto de Física y Matemáticas, UMSNH**
 
