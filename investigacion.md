@@ -8,7 +8,7 @@ author_profile: true
 *Credito: NASA Goddard Space Flight Center / Jeremy Schnittman — dominio publico*
 ## Lineas de investigacion
 
-**Fisica de acrecion y agujeros negros**
+**Fisica de acrecion y agujeros negros**\ 
 Estudio numerico y analitico de procesos de acrecion de gas hacia agujeros negros astrofisicos, abarcando regimenes newtonianos y de relatividad general.
 
 **Modelado relativista e hidrodinamica**
