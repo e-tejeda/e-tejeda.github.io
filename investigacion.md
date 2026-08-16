@@ -8,10 +8,12 @@ author_profile: true
 *Credito: NASA Goddard Space Flight Center / Jeremy Schnittman — dominio publico*
 ## Lineas de investigacion
 
-**Fisica de acrecion y agujeros negros**<br><br>
+**Fisica de acrecion y agujeros negros**
+
 Estudio numerico y analitico de procesos de acrecion de gas hacia agujeros negros astrofisicos, abarcando regimenes newtonianos y de relatividad general.
 
-**Modelado relativista e hidrodinamica**<br><br>
+**Modelado relativista e hidrodinamica**
+
 Desarrollo e implementacion de modelos y herramientas numericas para capturar efectos relativistas en el comportamiento de fluidos e interacciones astrofisicas.
 
 ## Publicaciones
