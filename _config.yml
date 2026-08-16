@@ -19,10 +19,7 @@ author:
     - label: "NASA / ADS"
       icon: "fas fa-fw fa-satellite"
       url: "https://ui.adsabs.harvard.edu/public-libraries/rahLI8RyTbShGnUj2obzzQ"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:emilio.tejeda@umich.mx"
-
+    
 footer:
   links:
     - label: "ORCID"
