@@ -4,10 +4,9 @@ permalink: /investigacion/
 layout: single
 author_profile: true
 ---
-## Lineas de investigacion
-
 ![Visualizacion de un disco de acrecion](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014619/2-Orbiting_a_black_hole-HD.00001_print.jpg){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
 *Credito: NASA Goddard Space Flight Center / Jeremy Schnittman — dominio publico*
+## Lineas de investigacion
 
 **Fisica de acrecion y agujeros negros**Estudio numerico y analitico de procesos de acrecion de gas hacia agujeros negros astrofisicos, abarcando regimenes newtonianos y de relatividad general.
 
