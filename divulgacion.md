@@ -13,5 +13,5 @@ Conferencias impartidas a publico general y estudiantes sobre astrofisica teoric
 
 ### Conferencias
 
-- [Conferencia 1](https://www.youtube.com/watch?v=JL6-Vf7duYI)
-- [Conferencia 2](https://www.youtube.com/watch?v=C7cw01TIIcY)
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px;"><iframe src="https://www.youtube.com/embed/JL6-Vf7duYI" title="Conferencia 1" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/C7cw01TIIcY" title="Conferencia 2" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe></div>
