@@ -1,5 +1,5 @@
 ---
-title: "Divulgacion"
+title: "Divulgación"
 permalink: /divulgacion/
 layout: single
 author_profile: true
