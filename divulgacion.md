@@ -5,7 +5,8 @@ layout: single
 author_profile: true
 ---
 ![Ilustracion del principio de equivalencia de la relatividad general](/e-tejeda.github.io/assets/images/PRINCIPIO%20EQUIVALENCIA.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
-*Ilustración del principio de equivalencia de la relatividad general. A la izquierda, una científica experimenta dentro de un laboratorio que flota en el espacio interestelar; a la derecha, la misma situación se repite con el laboratorio en caida libre hacia la Tierra.*{: .img-caption}
+*Ilustración del principio de equivalencia de la relatividad general. A la izquierda, una científica experimenta dentro de un laboratorio que flota en el espacio interestelar; a la derecha, la misma situación se repite con el laboratorio en caida libre hacia la Tierra.*
+{: .img-caption}
 ## Difusión y divulgación
 Coordinación y organización de seminarios y eventos de difusión académica para la comunidad de Investigadoras e Investigadores por México a través de plataformas digitales.
 Conferencias impartidas a público general y estudiantes sobre astrofísica teórica, agujeros negros y cosmología.
