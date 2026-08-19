@@ -12,4 +12,4 @@ Obtuve el doctorado en Astrofísica por la Scuola Internazionale Superiore di St
 
 Mi trabajo de investigación se enfoca en la astrofísica teórica y numérica, en particular en la física de acreción hacia agujeros negros y el desarrollo de modelos e implementaciones numéricas que incorporan efectos relativistas. Participo activamente como docente y tutor en los posgrados en Física de la UMSNH y de Astrofísica en la UNAM, así como en la organización de proyectos de difusión y divulgación científica.
 
-[Curriculum Vitae (PDF)](https://drive.google.com/file/d/1TlCJPkIWMpJuSB0mVUZPGDvr8eZ_CzXe/view){: .btn .btn--primary}primary}
+[Curriculum Vitae (PDF)](https://drive.google.com/file/d/1TlCJPkIWMpJuSB0mVUZPGDvr8eZ_CzXe/view){: .btn .btn--primary}
