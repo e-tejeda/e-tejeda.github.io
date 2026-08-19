@@ -4,10 +4,8 @@ permalink: /investigacion/
 layout: single
 author_profile: true
 ---
-![Visualización de un disco de acrecion](https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014619/2-Orbiting_a_black_hole-HD.00001_print.jpg){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
-*Crédito: NASA Goddard Space Flight Center / Jeremy Schnittman — dominio público*
-## Líneas de investigación
-
+![Onda de choque generada por el paso de un agujero negro a traves de una estrella enana blanca](/assets/images/WIND%20ACCRETION.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
+*Onda de choque generada por el paso de un agujero negro a traves de una estrella enana blanca. Imagen adaptada de Steigerwald & Tejeda, Physical Review Letters 2021.*
 **Fisica de acreción y agujeros negros:**
 Estudio numérico y analítico de procesos de acreción de gas hacia agujeros negros astrofisicos, abarcando regimenes newtonianos y de relatividad general.
 
