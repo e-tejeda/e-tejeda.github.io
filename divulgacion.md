@@ -10,7 +10,9 @@ author_profile: true
 ## Difusión y divulgación
 Coordinación y organización de seminarios y eventos de difusión académica para la comunidad de Investigadoras e Investigadores por México a través de plataformas digitales.
 Conferencias impartidas a público general y estudiantes sobre astrofísica teórica, agujeros negros y cosmología.
-[Facebook: SomosCatedras](https://www.facebook.com/SomosCatedras/) - [cienciapormexico.com.mx](https://cienciapormexico.com.mx/)
+
+[Facebook: SomosCatedras](https://www.facebook.com/SomosCatedras/)
+[cienciapormexico.com.mx](https://cienciapormexico.com.mx/)
 
 **Texto de divulgación: De la mente al cosmos**
 Un recorrido por la relatividad a través de experimentos pensados. [Leer texto completo](https://drive.google.com/file/d/1oSmkUMistD8vdsMDb6vHFw5hUoWaUuc4/view) - [Ver infografia](https://www.facebook.com/SomosCatedras/posts/pfbid02S31DwkksVQGFUH3MysnjoQai4NVTF8TvVRXKLeJtbQb6aaGFVX6D9njtSRWSdrwNl)
