@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 ![Onda de choque generada por el paso de un agujero negro a traves de una estrella enana blanca](/e-tejeda.github.io/assets/images/WIND%20ACCRETION.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
-*Onda de choque generada por el paso de un agujero negro a traves de una estrella enana blanca. Imagen adaptada de Steigerwald & Tejeda, Physical Review Letters 2021.*{: .img-caption}
+*Onda de choque generada por el paso de un agujero negro a través de una estrella enana blanca. Imagen adaptada de Steigerwald & Tejeda, Physical Review Letters 2021.*{: .img-caption}
 
 **Fisica de acreción y agujeros negros:**
 Estudio numérico y analítico de procesos de acreción de gas hacia agujeros negros astrofisicos, abarcando regimenes newtonianos y de relatividad general.
