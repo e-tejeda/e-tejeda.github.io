@@ -6,6 +6,7 @@ author_profile: true
 <style>.page__title{display:none;}</style>
 ![Simulacion magnetohidrodinamica de disco de acrecion](/assets/images/ACCRETION.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
 *Simulacion magnetohidrodinamica (MHD) de la formacion de un disco de acrecion alrededor de un agujero negro supermasivo (Sadowski, Tejeda et al., MNRAS 2016).*
+
 **Investigador por México (SECIHTI) — Instituto de Física y Matemáticas, UMSNH**
 
 Obtuve el doctorado en Astrofísica por la Scuola Internazionale Superiore di Studi Avanzati (SISSA) en Trieste, Italia (2012). Realicé estancias posdoctorales en la Universidad de Estocolmo y en el Instituto de Astronomía de la UNAM. Desde 2018 formo parte del programa Investigadoras e Investigadores por México asignado al Instituto de Física y Matemáticas de la Universidad Michoacana de San Nicolás de Hidalgo (UMSNH). Formo parte del Sistema Nacional de Investigadoras e Investigadores (SNII) en el Nivel II.
