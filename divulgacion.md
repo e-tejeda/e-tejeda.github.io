@@ -12,6 +12,7 @@ Coordinación y organización de seminarios y eventos de difusión académica pa
 Conferencias impartidas a público general y estudiantes sobre astrofísica teórica, agujeros negros y cosmología.
 
 [Facebook: SomosCatedras](https://www.facebook.com/SomosCatedras/)
+
 [cienciapormexico.com.mx](https://cienciapormexico.com.mx/)
 
 **Texto de divulgación: De la mente al cosmos**
