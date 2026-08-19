@@ -19,7 +19,9 @@ author_profile: true
 ## Cursos
 
 **Maestría en Astrofísica Relativista**
+
 [Temario](https://drive.google.com/file/d/1W5rFVqYjNDaLkEpJEJ9V0K0kS3fNV6UY/view) - [Notas del curso](https://drive.google.com/file/d/1yQmT9zzKqYMRHWYgffIb6BxO0auvLiBJ/view)
 
 **Maestría en Fenomenos de Acreción en Astrofísica**
+
 [Temario](https://drive.google.com/file/d/1PjRX2MaTGJ0eBb6WDkXgYx0iWTlgKYDj/view)
