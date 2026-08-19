@@ -17,8 +17,8 @@ author_profile: true
   Dirección de tesis de licenciatura, maestria y doctorado.
 ## Cursos
 
-**Maestria en Astrofisica Relativista**
+**Maestría en Astrofísica Relativista**
 [Temario](https://drive.google.com/file/d/1W5rFVqYjNDaLkEpJEJ9V0K0kS3fNV6UY/view) - [Notas del curso](https://drive.google.com/file/d/1yQmT9zzKqYMRHWYgffIb6BxO0auvLiBJ/view)
 
-**Maestria en Fenomenos de Acrecion en Astrofisica**
+**Maestría en Fenomenos de Acreción en Astrofísica**
 [Temario](https://drive.google.com/file/d/1PjRX2MaTGJ0eBb6WDkXgYx0iWTlgKYDj/view)
