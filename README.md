@@ -38,9 +38,7 @@ Medidas recomendadas segun el tipo de imagen:
 - Logos pequenos (como los de Divulgacion): no importa mucho el tamano original, se ajustan con CSS, pero entre 200 y 400px de ancho es suficiente.
 
 Una vez subida la imagen, para usarla en una pagina hay que escribir esto en el archivo .md correspondiente, donde quieras que aparezca:
-
-![texto descriptivo de la imagen](/e-tejeda.github.io/assets/images/NOMBRE-DEL-ARCHIVO.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
-
+`![texto descriptivo de la imagen](/e-tejeda.github.io/assets/images/NOMBRE-DEL-ARCHIVO.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }`
 Importante: la ruta siempre debe empezar con /e-tejeda.github.io/assets/images/ (no solo /assets/images/). Esto es por un comportamiento particular de Jekyll en este sitio -- si se omite ese prefijo, la imagen no carga en Investigacion, Docencia ni Divulgacion (aunque si carga en Home). Usa siempre la version completa para evitar el problema.
 
 ## Como cambiar el CV, temarios o notas de curso (PDFs)
