@@ -2,8 +2,6 @@
 
 Este repositorio contiene el sitio web personal y academico de Emilio Tejeda, construido con Jekyll y publicado con GitHub Pages. Esta guia explica como editar el contenido sin necesidad de saber programar.
 
-Sitio en vivo: https://tonotorres78.github.io/e-tejeda.github.io/
-
 ## Como funciona
 
 Cada pagina del sitio es un archivo de texto (.md) dentro de este repositorio:
