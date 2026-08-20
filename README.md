@@ -21,9 +21,7 @@ Cuando editas cualquiera de estos archivos y le das "Commit changes", GitHub rec
 2. Da clic en el lapiz (icono de editar) arriba a la derecha.
 3. Cambia el texto que necesites.
 4. Baja hasta el boton verde "Commit changes" y dale clic (aparece dos veces, la segunda vez confirma el guardado).
-
-Nota: el editor de GitHub a veces cierra automaticamente etiquetas HTML (por ejemplo, al escribir <div> agrega solo el </div> por su cuenta). Si ves texto duplicado como </style>style> despues de escribir algo con < y >, simplemente borra la parte de sobra con Backspace. No es un error tuyo, es el editor.
-
+Nota: el editor de GitHub a veces cierra automaticamente etiquetas HTML (por ejemplo, al escribir `<div>` agrega solo el `</div>` por su cuenta). Si ves texto duplicado como `</style>style>` despues de escribir algo con < y >, simplemente borra la parte de sobra con Backspace. No es un error tuyo, es el editor.
 ## Como cambiar o agregar imagenes
 
 Las imagenes viven en la carpeta assets/images. Para subir una nueva:
