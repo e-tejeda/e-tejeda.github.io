@@ -5,7 +5,7 @@ author_profile: true
 ---
 <style>.page__title{display:none;}</style>
 ![Simulacion magnetohidrodinamica de disco de acrecion](/assets/images/ACCRETION.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
-*Simulación magnetohidrodinámica (MHD) de la formación de un disco de acreción alrededor de un agujero negro supermasivo (Sadowski, Tejeda et al., MNRAS 2016).*
+*Simulación magnetohidrodinámica (MHD) de la formación de un disco de acreción alrededor de un agujero negro supermasivo. Imagen adaptada de [Sadowski, Tejeda et al., MNRAS 2016](https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.4250S/abstract).*
 {: .img-caption}
 
 **Investigador por México (SECIHTI) — Instituto de Física y Matemáticas, UMSNH**
