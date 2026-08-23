@@ -17,24 +17,23 @@ Coordinación y organización de seminarios y eventos de difusión académica pa
 
 **Texto de divulgación: De la mente al cosmos**
 Un recorrido por la relatividad a través de experimentos pensados. [Leer texto completo](https://drive.google.com/file/d/1oSmkUMistD8vdsMDb6vHFw5hUoWaUuc4/view) - [Ver infografia](https://www.facebook.com/SomosCatedras/posts/pfbid02S31DwkksVQGFUH3MysnjoQai4NVTF8TvVRXKLeJtbQb6aaGFVX6D9njtSRWSdrwNl)
-### Charlas
-Charlas impartidas a público no especializado y estudiantes sobre astrofísica teórica, agujeros negros y cosmología.
+
+### Conferencias
+Charlas impartidas a público no especializado sobre astrofísica teórica, agujeros negros y cosmología.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:16px;">
 
-<!-- Video 1 -->
   <div>
     <iframe src="https://www.youtube.com/embed/C7cw01TIIcY" title="Estrellas que escapan de la galaxia" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe>
-    <h4 style="margin-top: 12px; margin-bottom: 4px;">Título de la segunda charla</h4>
+    <h4 style="margin-top: 12px; margin-bottom: 4px;">Estrellas que escapan de la galaxia</h4>
     <p style="font-size: 0.9em; margin-top: 0; line-height: 1.4;">
       Podcast Recovecos de la Ciencia. Entrevista realizada el 7 de julio de 2024.
     </p>
   </div>
 
-<!-- Video 2 -->
 <div>
     <iframe src="https://www.youtube.com/embed/JL6-Vf7duYI" title="Mini agujeros negros: del big bang a la materia oscura" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe>
-    <h4 style="margin-top: 12px; margin-bottom: 4px;">Título de la primera charla</h4>
+    <h4 style="margin-top: 12px; margin-bottom: 4px;">Mini agujeros negros: del big bang a la materia oscura</h4>
     <p style="font-size: 0.9em; margin-top: 0; line-height: 1.4;">
       Ciclo de Conferencias "Viernes de Astronomía" del IRyA-UNAM. Charla impartida el 27 de agosto de 2021.
     </p>
