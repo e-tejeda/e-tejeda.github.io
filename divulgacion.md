@@ -39,4 +39,12 @@ Charlas impartidas a público no especializado sobre astrofísica teórica, aguj
     </p>
   </div>
 
+  <div>
+    <iframe src="https://www.youtube.com/embed/6YhVOnqY_2s" title="Agujeros negros y dónde encontrarlos" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe>
+    <h4 style="margin-top: 12px; margin-bottom: 4px;">Agujeros negros y dónde encontrarlos</h4>
+    <p style="font-size: 0.9em; margin-top: 0; line-height: 1.4;">
+      Ciclo de Conferencias "El Universo los Viernes" del IA-UNAM. Charla impartida el 10 de marzo de 2017.
+    </p>
+  </div>
+
 </div>
