@@ -26,15 +26,15 @@ author_profile: true
   
 ### Asesorías y co-asesorías actuales
 
-* **Mauricio González Servín** (01/2024 -- presente)
+* **Mauricio González Servín**<br>
   Estudiante de doctorado, Posgrado en Astrofísica, Instituto de Radioastronomía y Astrofísica, UNAM.
-* **Paulina Padilla López** (08/2026 -- presente)
+* **Paulina Padilla López**<br> 
   Estudiante de maestría, Posgrado en Astrofísica, Instituto de Radioastronomía y Astrofísica, UNAM.
-* **Vanessa Rodríguez Ruiz** (01/2026 -- presente)
+* **Vanessa Rodríguez Ruiz**<br> 
   Estudiante de maestría, Posgrado en Astrofísica, Instituto de Radioastronomía y Astrofísica, UNAM.
-* **Alejandro Manzaneda Osorio** (08/2024 -- presente)
+* **Alejandro Manzaneda Osorio**<br> 
   Estudiante de maestría, Posgrado en Astrofísica, Instituto de Radioastronomía y Astrofísica, UNAM.
-* **Raúl Cano Villegas**
+* **Raúl Cano Villegas**<br>
   Estudiante de licenciatura, Facultad de Ciencias Físico-Matemáticas, UMSNH.
 
 ### Estudiantes graduados
