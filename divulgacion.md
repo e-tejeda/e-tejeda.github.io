@@ -19,13 +19,11 @@ author_profile: true
 
 Coordinación y organización de seminarios y eventos de difusión académica para la comunidad de Investigadoras e Investigadores por México a través de plataformas digitales.
 
-[![Somos Catedras](/assets/images/logo-somoscatedras.png){: style="height:48px;width:auto;margin-bottom:8px;"}](https://www.facebook.com/SomosCatedras/)
-
-[![Ciencia por Mexico](/assets/images/logo-cienciapormexico.png){: style="height:48px;width:auto;margin-bottom:16px;"}](https://cienciapormexico.com.mx/)
+[![Somos Catedras](/assets/images/logo-somoscatedras.png){: style="height:80px;width:auto;border:2px solid black;border-radius:6px;padding:6px;margin-right:16px;"}](https://www.facebook.com/SomosCatedras/) [![Ciencia por Mexico](/assets/images/logo-cienciapormexico.png){: style="height:80px;width:auto;border:2px solid black;border-radius:6px;padding:6px;"}](https://cienciapormexico.com.mx/)
 
 Creación y coordinación del canal del Instituto de Física y Matemáticas, UMSNH
 
-[![Logo IFM](/assets/images/LogoIFM.png){: style="height:48px;width:auto;"}](https://www.youtube.com/@ifmumich)
+[![Logo IFM](/assets/images/LogoIFM.png){: style="height:80px;width:auto;border:2px solid black;border-radius:6px;padding:6px;margin-top:8px;"}](https://www.youtube.com/@ifmumich)
 
 ## Conferencias
 Charlas impartidas a público no especializado sobre astrofísica teórica, agujeros negros y cosmología.
