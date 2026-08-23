@@ -9,7 +9,8 @@ author_profile: true
 {: .img-caption}
 
 ## Texto de divulgación 
-**De la mente al cosmos:** Un recorrido por la relatividad a través de experimentos pensados. 
+
+***De la mente al cosmos**: Un recorrido por la relatividad a través de experimentos pensados.* 
 
 [Leer texto completo](https://drive.google.com/file/d/1oSmkUMistD8vdsMDb6vHFw5hUoWaUuc4/view) 
 
