@@ -11,21 +11,22 @@ author:
   bio: "Investigador por México (SECIHTI) — Instituto de Física y Matemáticas, UMSNH"
   email: "emilio.tejeda@umich.mx"
   links:
-    - label: "ORCID"
-      icon: "fas fa-fw fa-id-badge"
-      url: "https://orcid.org/0000-0001-9936-6165"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.es/citations?user=k_rEP1IAAAAJ&hl=es"
     - label: "NASA / ADS"
       icon: "fas fa-fw fa-satellite"
       url: "https://ui.adsabs.harvard.edu/public-libraries/rahLI8RyTbShGnUj2obzzQ"
-    
-footer:
-  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.es/citations?user=k_rEP1IAAAAJ&hl=es"
     - label: "ORCID"
       icon: "fas fa-fw fa-id-badge"
       url: "https://orcid.org/0000-0001-9936-6165"
+
+    
+footer:
+  links:
+    - label: "NASA / ADS"
+      icon: "fas fa-fw fa-satellite"
+      url: "https://ui.adsabs.harvard.edu/public-libraries/rahLI8RyTbShGnUj2obzzQ"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.es/citations?user=k_rEP1IAAAAJ&hl=es"
