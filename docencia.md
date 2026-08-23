@@ -4,7 +4,7 @@ permalink: /docencia/
 layout: single
 author_profile: true
 ---
-![Simulacion numerica del desgarramiento de una estrella por fuerzas de marea](/e-tejeda.github.io/assets/images/TIDAL%20DISRUPTION.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
+![Simulacion numerica del desgarramiento de una estrella por fuerzas de marea](assets/images/TIDAL%20DISRUPTION.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
 *Simulación numérica del desgarramiento de una estrella similar al Sol por las fuerzas de marea de un agujero negro supermasivo. Se ilustra la evolución temporal del proceso. Adaptado de Tejeda et al., MNRAS 2017.*
 {: .img-caption}
 <div class="notice--warning" markdown="1">
