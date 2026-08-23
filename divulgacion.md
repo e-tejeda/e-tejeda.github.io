@@ -9,7 +9,7 @@ author_profile: true
 {: .img-caption}
 ## Difusión y divulgación
 Coordinación y organización de seminarios y eventos de difusión académica para la comunidad de Investigadoras e Investigadores por México a través de plataformas digitales.
-Conferencias impartidas a público general y estudiantes sobre astrofísica teórica, agujeros negros y cosmología.
+
 
 ![Somos Catedras](/assets/images/logo-somoscatedras.png){: style="height:32px;width:auto;vertical-align:middle;margin-right:8px;" } [Facebook: SomosCatedras](https://www.facebook.com/SomosCatedras/)
 
@@ -17,7 +17,27 @@ Conferencias impartidas a público general y estudiantes sobre astrofísica teó
 
 **Texto de divulgación: De la mente al cosmos**
 Un recorrido por la relatividad a través de experimentos pensados. [Leer texto completo](https://drive.google.com/file/d/1oSmkUMistD8vdsMDb6vHFw5hUoWaUuc4/view) - [Ver infografia](https://www.facebook.com/SomosCatedras/posts/pfbid02S31DwkksVQGFUH3MysnjoQai4NVTF8TvVRXKLeJtbQb6aaGFVX6D9njtSRWSdrwNl)
-### Conferencias
+### Charlas
+Charlas impartidas a público no especializado y estudiantes sobre astrofísica teórica, agujeros negros y cosmología.
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px;"><iframe src="https://www.youtube.com/embed/JL6-Vf7duYI" title="Conferencia 1" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe>
-<iframe src="https://www.youtube.com/embed/C7cw01TIIcY" title="Conferencia 2" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:16px;">
+
+<!-- Video 1 -->
+  <div>
+    <iframe src="https://www.youtube.com/embed/C7cw01TIIcY" title="Estrellas que escapan de la galaxia" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe>
+    <h4 style="margin-top: 12px; margin-bottom: 4px;">Título de la segunda charla</h4>
+    <p style="font-size: 0.9em; margin-top: 0; line-height: 1.4;">
+      Podcast Recovecos de la Ciencia. Entrevista realizada el 7 de julio de 2024.
+    </p>
+  </div>
+
+<!-- Video 2 -->
+<div>
+    <iframe src="https://www.youtube.com/embed/JL6-Vf7duYI" title="Mini agujeros negros: del big bang a la materia oscura" style="width:100%;aspect-ratio:16/9;border:none;border-radius:6px;" allowfullscreen></iframe>
+    <h4 style="margin-top: 12px; margin-bottom: 4px;">Título de la primera charla</h4>
+    <p style="font-size: 0.9em; margin-top: 0; line-height: 1.4;">
+      Ciclo de Conferencias "Viernes de Astronomía" del IRyA-UNAM. Charla impartida el 27 de agosto de 2021.
+    </p>
+  </div>
+
+</div>
