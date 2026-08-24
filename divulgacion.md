@@ -4,7 +4,7 @@ permalink: /divulgacion/
 layout: single
 author_profile: true
 ---
-![Ilustracion del principio de equivalencia de la relatividad general](/assets/images/banner-mareas.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
+![Ilustracion del principio de equivalencia de la relatividad general](/assets/images/banner-mareas.jpg){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
 *Fragmento de la inforgrafía "Divorcio por mareas".*
 {: .img-caption}
 
