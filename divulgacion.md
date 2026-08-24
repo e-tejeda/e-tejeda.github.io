@@ -14,8 +14,44 @@ author_profile: true
 
 [Leer texto completo](https://drive.google.com/file/d/1oSmkUMistD8vdsMDb6vHFw5hUoWaUuc4/view) 
 
-[Ver infografía](https://www.facebook.com/SomosCatedras/posts/pfbid02S31DwkksVQGFUH3MysnjoQai4NVTF8TvVRXKLeJtbQb6aaGFVX6D9njtSRWSdrwNl)
+## Infografías
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 24px; margin-bottom: 24px;">
+  
+  <!-- Miniatura clickeable -->
+  <a href="/assets/images/horizonte_eventos.gif" class="image-popup" target="_blank" style="flex-shrink: 0;">
+    <img src="/assets/images/agujero_negro_mini.png" alt="Infografía agujero negro y río" style="width: 200px; height: auto; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
 
+  <!-- Título y detalles -->
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 8px;">¿En qué se parece un agujero negro a un río?</h4>
+    <p style="margin: 0; font-size: 0.9em; line-height: 1.4;">
+      Infografía animada donde se explora la analogía entre la corriente de un río y el horizonte de eventos de un agujero negro. <br>
+      <em>Haz clic en la imagen para verla en tamaño completo.</em>
+    </p>
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 24px; margin-bottom: 24px;">
+  
+  <!-- Animación en MP4 que se reproduce como GIF -->
+  <div style="flex-shrink: 0; width: 200px;">
+    <video width="100%" autoplay loop muted playsinline controls style="border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <source src="/assets/images/horizonte_eventos.mp4" type="video/mp4">
+    </video>
+  </div>
+
+  <!-- Título y detalles -->
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 8px;">¿En qué se parece un agujero negro a un río?</h4>
+    <p style="margin: 0; font-size: 0.9em; line-height: 1.4;">
+       Infografía animada donde se explora la analogía entre la corriente de un río y el horizonte de eventos de un agujero negro. <br>
+      <em>Usa los controles del video para verlo en pantalla completa.</em>
+    </p>
+  </div>
+
+</div>
 ## Plataformas
 
 Coordinación y organización de seminarios y eventos de difusión académica para la comunidad de Investigadoras e Investigadores por México a través de plataformas digitales.
