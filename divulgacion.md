@@ -18,7 +18,7 @@ author_profile: true
   
   <!-- Miniatura clickeable -->
   <a href="/assets/images/horizonte_eventos.gif" class="image-popup" target="_blank" style="flex-shrink: 0;">
-    <img src="/assets/images/horizonte_eventos.gif" alt="Infografía agujero negro y río" style="width: 200px; height: auto; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="/assets/images/horizonte_eventos.gif" alt="Infografía agujero negro y río" style="width: 150px; height: auto; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 
   <!-- Título y detalles -->
@@ -26,6 +26,25 @@ author_profile: true
     <h4 style="margin-top: 0; margin-bottom: 8px;">¿En qué se parece un agujero negro a un río?</h4>
     <p style="margin: 0; font-size: 0.9em; line-height: 1.4;">
       Infografía animada donde se explora la analogía entre la corriente de un río y el horizonte de eventos de un agujero negro. <br>
+      <em>Haz clic en la imagen para verla en tamaño completo.</em>
+    </p>
+  </div>
+
+</div>
+
+<!-- Divorcio por mareas -->
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 24px; margin-bottom: 24px;">
+  
+  <!-- Miniatura clickeable -->
+  <a href="/assets/images/Divorcio_por_mareas.png" class="image-popup" target="_blank" style="flex-shrink: 0;">
+    <img src="/assets/images/horizonte_eventos.gif" alt="Infografía divorcio por mareas" style="width: 150px; height: auto; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
+
+  <!-- Título y detalles -->
+  <div>
+    <h4 style="margin-top: 0; margin-bottom: 8px;">Divorcio por mareas</h4>
+    <p style="margin: 0; font-size: 0.9em; line-height: 1.4;">
+      Historia de una pareja de estrellas que pasó demasiado cerca del agujero negro que vive en el centro de nuestra galaxia. <br>
       <em>Haz clic en la imagen para verla en tamaño completo.</em>
     </p>
   </div>
