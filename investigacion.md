@@ -15,7 +15,6 @@ Estudio numérico y analítico de procesos de acreción de gas hacia agujeros ne
 Desarrollo e implementación de modelos y herramientas numéricas para capturar efectos relativistas en el comportamiento de fluidos e interacciones astrofísicas.
 
 ## Publicaciones
-
 ### Artículos seleccionados
 
 - Toalá, J. A., Tejeda, E., & Vasquez-Torres, D. A.<br> "Accretion in Binary Systems with Slow Stellar Winds."<br>[arXiv:2603.01090 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260301090T/abstract).
@@ -28,7 +27,6 @@ Desarrollo e implementación de modelos y herramientas numéricas para capturar 
 - Tejeda, E. & Rosswog, S.<br>"An accurate Newtonian description of particle motion around a Schwarzschild black hole."<br>[*MNRAS*, 433, 3, 1930 (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.433.1930T/abstract).
 
 ### Repositorios y bases de datos
-
 A continuación se presenta un acceso directo a la lista completa de publicaciones actualizadas en repositorios y bases de datos académicas:
 
 - [NASA / ADS](https://ui.adsabs.harvard.edu/public-libraries/rahLI8RyTbShGnUj2obzzQ)
