@@ -37,7 +37,7 @@ author_profile: true
   
   <!-- Miniatura clickeable -->
   <a href="/assets/images/Divorcio_por_mareas.png" class="image-popup" target="_blank" style="flex-shrink: 0;">
-    <img src="/assets/images/horizonte_eventos.gif" alt="Infografía divorcio por mareas" style="width: 150px; height: auto; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="/assets/images/Divorcio_por_mareas.png" alt="Infografía divorcio por mareas" style="width: 150px; height: auto; border: 1px solid #ddd; border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 
   <!-- Título y detalles -->
