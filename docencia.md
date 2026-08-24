@@ -26,29 +26,33 @@ author_profile: true
 ### Asesorías y co-asesorías actuales
 
 * **Mauricio González Servín**<br>
-  Estudiante de doctorado, Posgrado en Astrofísica, IRyA, UNAM.
+  Estudiante de doctorado, Posgrado en Astrofísica<br>IRyA, UNAM
 * **Paulina Padilla López**<br> 
-  Estudiante de maestría, Posgrado en Astrofísica, IRyA, UNAM.
+  Estudiante de maestría, Posgrado en Astrofísica<br>IRyA, UNAM
 * **Vanessa Rodríguez Ruiz**<br> 
-  Estudiante de maestría, Posgrado en Astrofísica, IRyA, UNAM.
+  Estudiante de maestría, Posgrado en Astrofísica<br>IRyA, UNAM
 * **Alejandro Manzaneda Osorio**<br> 
-  Estudiante de maestría, Posgrado en Astrofísica, IRyA, UNAM.
+  Estudiante de maestría, Posgrado en Astrofísica<br>IRyA, UNAM
 * **Raúl Cano Villegas**<br>
-  Estudiante de licenciatura, FisMat, UMSNH.
+  Estudiante de licenciatura<br>FisMat, UMSNH
 
 ### Estudiantes graduados
 
 * **Daniel Tapia Alanis** (2024).
-  Licenciatura, FisMat, UMSNH.
-  Tesis: *Robustez del mecanismo de acreción ahogada ante cambios a las condiciones de frontera.*
+  <br>Tesis: *Robustez del mecanismo de acreción ahogada ante cambios a las condiciones de frontera.*
+  <br>Licenciatura, FisMat, UMSNH.
+  
 * **Alejandro Aguayo Ortiz** (2022).
-  Doctorado, Posgrado en Astrofísica, IA, UNAM.
-  Tesis: *Estudios numéricos de fenómenos de acreción y eyección en astrofísica.*
+  <br>Tesis: *Estudios numéricos de fenómenos de acreción y eyección en astrofísica.*
+  <br>Doctorado, Posgrado en Astrofísica, IA, UNAM.
+  
 * **Alejandro Manzaneda Osorio** (2022).
-  Diplomado en Física Teórica del MCTP, UNACH.
-  Tesina: *Separación de sistemas binarios por fuerzas de marea de un agujero negro.*
+  <br>Tesina: *Separación de sistemas binarios por fuerzas de marea de un agujero negro.*
+  <br>Diplomado en Física Teórica del MCTP, UNACH.
+  
 * **César Navarrete Zavala** (2022).
-  Diplomado en Física Teórica del MCTP, UNACH.
-  Tesina: *Tratamiento de un sistema autogravitante en el espacio-tiempo curvo de un agujero negro.*
+  <br>Tesina: *Tratamiento de un sistema autogravitante en el espacio-tiempo curvo de un agujero negro.*
+  <br>Diplomado en Física Teórica del MCTP, UNACH.
+  
 
 
