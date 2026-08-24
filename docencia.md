@@ -22,7 +22,7 @@ author_profile: true
 **Termodinámica.** Curso para la Licenciatura en Ciencias de la Tierra (ENES-UNAM).
 [Notas del curso](https://geociencias-fisica-ii.blogspot.com/p/temario.html)
 
-## Formación de Recursos Humanos
+## Formación de Estudiantes
 ### Asesorías y co-asesorías actuales
 
 * **Mauricio González Servín**<br>
