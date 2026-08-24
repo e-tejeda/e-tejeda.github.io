@@ -4,8 +4,8 @@ permalink: /divulgacion/
 layout: single
 author_profile: true
 ---
-![Ilustracion del principio de equivalencia de la relatividad general](/assets/images/PRINCIPIO%20EQUIVALENCIA.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
-*Ilustración del principio de equivalencia de la relatividad general. A la izquierda, una científica experimenta dentro de un laboratorio que flota en el espacio interestelar; a la derecha, la misma situación se repite con el laboratorio en caida libre hacia la Tierra.*
+![Ilustracion del principio de equivalencia de la relatividad general](/assets/images/banner-mareas.png){: style="width:100%;max-height:280px;object-fit:cover;border-radius:6px;" }
+*Fragmento de la inforgrafía "Divorcio por mareas".*
 {: .img-caption}
 
 ## Texto de divulgación 
