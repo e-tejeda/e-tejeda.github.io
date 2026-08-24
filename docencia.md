@@ -39,12 +39,12 @@ author_profile: true
 
 ### Estudiantes graduados
 
-* **Alejandro Aguayo Ortiz** (2022).
-  Doctorado, Posgrado en Astrofísica, Instituto de Astronomía, UNAM.
-  *Tesis:* "Estudios numéricos de fenómenos de acreción y eyección en astrofísica."
 * **Daniel Tapia Alanis** (2024).
   Licenciatura, Facultad de Ciencias Físico-Matemáticas, UMSNH.
   *Tesis:* Robustez del mecanismo de acreción ahogada ante cambios a las condiciones de frontera.
+* **Alejandro Aguayo Ortiz** (2022).
+  Doctorado, Posgrado en Astrofísica, Instituto de Astronomía, UNAM.
+  *Tesis:* Estudios numéricos de fenómenos de acreción y eyección en astrofísica.
 * **Alejandro Manzaneda Osorio** (2022).
   Diplomado en Física Teórica del MCTP, Centro Mesoamericano de Física Teórica, UNACH.
   *Tesina:* Separación de sistemas binarios por fuerzas de marea de un agujero negro.
