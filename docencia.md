@@ -23,7 +23,6 @@ author_profile: true
 [Notas del curso](https://geociencias-fisica-ii.blogspot.com/p/temario.html)
 
 ## Formación de Recursos Humanos
-  
 ### Asesorías y co-asesorías actuales
 
 * **Mauricio González Servín**<br>
@@ -41,15 +40,15 @@ author_profile: true
 
 * **Daniel Tapia Alanis** (2024).
   Licenciatura, Facultad de Ciencias Físico-Matemáticas, UMSNH.
-  *Tesis:* Robustez del mecanismo de acreción ahogada ante cambios a las condiciones de frontera.
+  Tesis: *Robustez del mecanismo de acreción ahogada ante cambios a las condiciones de frontera.*
 * **Alejandro Aguayo Ortiz** (2022).
   Doctorado, Posgrado en Astrofísica, Instituto de Astronomía, UNAM.
-  *Tesis:* Estudios numéricos de fenómenos de acreción y eyección en astrofísica.
+  Tesis: *Estudios numéricos de fenómenos de acreción y eyección en astrofísica.*
 * **Alejandro Manzaneda Osorio** (2022).
   Diplomado en Física Teórica del MCTP, Centro Mesoamericano de Física Teórica, UNACH.
-  *Tesina:* Separación de sistemas binarios por fuerzas de marea de un agujero negro.
+  Tesina: *Separación de sistemas binarios por fuerzas de marea de un agujero negro.*
 * **César Navarrete Zavala** (2022).
   Diplomado en Física Teórica del MCTP, Centro Mesoamericano de Física Teórica, UNACH.
-  *Tesina:* Tratamiento de un sistema autogravitante en el espacio-tiempo curvo de un agujero negro.
+  Tesina: *Tratamiento de un sistema autogravitante en el espacio-tiempo curvo de un agujero negro.*
 
 
