@@ -16,7 +16,7 @@ Desarrollo e implementación de modelos y herramientas numéricas para capturar 
 
 ## Publicaciones
 ### Artículos seleccionados
-- González-Servín, M., Tejeda, E., Lizano, S., et al.<br> "Tidal disruption of stellar binaries as a pathway to exotic transients"<br>[arXiv:2608.22735 (2026)](https://arxiv.org/abs/2608.22735).
+- González-Servín, M., Tejeda, E., Lizano, S., et al.<br> "Tidal disruption of stellar binaries as a pathway to exotic transients"<br>[arXiv:2608.22735 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260822735G/abstract).
 - Toalá, J. A., Tejeda, E., & Vasquez-Torres, D. A.<br> "Accretion in Binary Systems with Slow Stellar Winds."<br>[arXiv:2603.01090 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260301090T/abstract).
 - Tejeda, E. & Toalá, J. A.<br>"Geometric Correction for Wind Accretion in Binary Systems."<br>[*ApJ*, 980, 2, 226 (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..226T/abstract).
 - Steigerwald, H. & Tejeda, E.<br>"Bondi-Hoyle-Lyttleton Accretion in a Reactive Medium: Detonation Ignition and a Mechanism for Type Ia Supernovae."<br>[*Phys. Rev. Lett.*, 127, 1, 011101 (2021)](https://ui.adsabs.harvard.edu/abs/2021PhRvL.127a1101S/abstract).
