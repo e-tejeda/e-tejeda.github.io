@@ -10,3 +10,14 @@ $navicon-link-color-hover: #B5730E;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+.author__urls-wrapper ul li a,
+.author__urls-wrapper ul li a i {
+    color: #333333 !important; 
+}
+
+/* Color al pasar el cursor o al tocar */
+.author__urls-wrapper ul li a:hover,
+.author__urls-wrapper ul li a:hover i {
+    color: #000000 !important; 
+}
