@@ -11,23 +11,24 @@ $navicon-link-color-hover: #B5730E;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-.author__urls-wrapper .author__urls {
-    background-color: #FFFFFF !important;
-}
+@media (max-width: 1024px) {
+    .author__urls-wrapper .author__urls {
+        background-color: #FFFFFF !important;
+        border-radius: 4px; /* Un pequeño borde redondeado para que luzca mejor */
+    }
 
-/* Fuerza el color oscuro y elimina cualquier opacidad o desvanecimiento oculto */
-.author__urls-wrapper .author__urls li a,
-.author__urls-wrapper .author__urls li a i,
-.author__urls-wrapper .author__urls li a span,
-ul.author__urls.social-icons li a {
-    color: #2D3452 !important;
-    opacity: 1 !important; 
-}
+    .author__urls-wrapper .author__urls li a,
+    .author__urls-wrapper .author__urls li a i,
+    .author__urls-wrapper .author__urls li a span,
+    ul.author__urls.social-icons li a {
+        color: #2D3452 !important;
+        opacity: 1 !important; 
+    }
 
-/* Color al pasar el cursor o tocar */
-.author__urls-wrapper .author__urls li a:hover,
-.author__urls-wrapper .author__urls li a:hover i,
-.author__urls-wrapper .author__urls li a:hover span,
-ul.author__urls.social-icons li a:hover {
-    color: #B5730E !important;
+    .author__urls-wrapper .author__urls li a:hover,
+    .author__urls-wrapper .author__urls li a:hover i,
+    .author__urls-wrapper .author__urls li a:hover span,
+    ul.author__urls.social-icons li a:hover {
+        color: #B5730E !important;
+    }
 }
