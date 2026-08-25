@@ -61,7 +61,7 @@ Creación y coordinación del canal del Instituto de Física y Matemáticas, UMS
 [![Logo IFM](/assets/images/LogoIFM.png){: style="height:80px;width:auto;border:2px solid black;border-radius:6px;padding:6px;margin-top:8px;"}](https://www.youtube.com/@ifmumich)
 
 ## Conferencias
-Charlas impartidas a público no especializado sobre astrofísica teórica, agujeros negros y cosmología.
+Charlas impartidas a público no especializado sobre astrofísica, agujeros negros y cosmología.
 
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:16px;">
 
