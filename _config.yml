@@ -11,9 +11,6 @@ author:
   bio: "Investigador por México (SECIHTI) — Instituto de Física y Matemáticas, UMSNH"
   email: "emilio.tejeda@umich.mx"
   links:
-    - label: "CV (PDF)"
-      url: "https://drive.google.com/file/d/1TlCJPkIWMpJuSB0mVUZPGDvr8eZ_CzXe/view"
-      icon: "fas fa-fw fa-file-pdf"
     - label: "NASA / ADS"
       icon: "fas fa-fw fa-satellite"
       url: "https://ui.adsabs.harvard.edu/public-libraries/rahLI8RyTbShGnUj2obzzQ"
@@ -23,7 +20,9 @@ author:
     - label: "ORCID"
       icon: "fas fa-fw fa-id-badge"
       url: "https://orcid.org/0000-0001-9936-6165"
-
+    - label: "CV (PDF)"
+      url: "https://drive.google.com/file/d/1TlCJPkIWMpJuSB0mVUZPGDvr8eZ_CzXe/view"
+      icon: "fas fa-fw fa-file-pdf"
     
 footer:
   links:
