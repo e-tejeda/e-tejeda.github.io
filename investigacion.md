@@ -12,7 +12,7 @@ author_profile: true
 Estudio numérico y analítico de procesos de acreción de gas hacia agujeros negros astrofisicos, abarcando regimenes newtonianos y de relatividad general.
 
 **Modelado relativista e hidrodinámica:**
-Desarrollo e implementación de modelos y herramientas numéricas para capturar efectos relativistas en el comportamiento de fluidos e interacciones astrofísicas.
+Desarrollo e implementación de modelos y herramientas numéricas para capturar efectos relativistas en el comportamiento de fluidos en escenarios astrofísicos.
 
 ## Publicaciones
 ### Artículos seleccionados
