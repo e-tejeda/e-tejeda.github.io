@@ -11,13 +11,23 @@ $navicon-link-color-hover: #B5730E;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-.author__urls-wrapper ul li a,
-.author__urls-wrapper ul li a i {
-    color: #333333 !important; 
+/* Fuerza un color oscuro para el botón de Enlaces y todo su contenido en móviles */
+.author__urls-wrapper,
+.author__urls-wrapper button {
+    color: #2D3452 !important; 
 }
 
-/* Color al pasar el cursor o al tocar */
+/* Fuerza el color oscuro para los enlaces, iconos y texto dentro del menú colapsable */
+.author__urls-wrapper ul li a,
+.author__urls-wrapper ul li a i,
+.author__urls-wrapper ul li a span,
+.author__urls-wrapper .author__urls li a {
+    color: #2D3452 !important; 
+}
+
+/* Color al pasar el cursor o tocar */
 .author__urls-wrapper ul li a:hover,
-.author__urls-wrapper ul li a:hover i {
-    color: #000000 !important; 
+.author__urls-wrapper ul li a:hover i,
+.author__urls-wrapper ul li a:hover span {
+    color: #B5730E !important; 
 }
