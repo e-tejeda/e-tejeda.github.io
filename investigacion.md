@@ -17,7 +17,7 @@ Desarrollo e implementación de modelos y herramientas numéricas para capturar 
 ## Publicaciones
 ### Artículos seleccionados
 - González-Servín, Tejeda, Lizano, et al.<br>"Tidal disruption of stellar binaries as a pathway to exotic transients"<br>[arXiv:2608.22735 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260822735G/abstract).
-- Toalá, Tejeda & Vasquez-Torres<br>"Accretion in Binary Systems with Slow Stellar Winds."<br>[arXiv:2603.01090 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260301090T/abstract).
+- Toalá, Tejeda, Vasquez-Torres, et. al.<br>"Accretion in Binary Systems with Slow Stellar Winds."<br>[arXiv:2603.01090 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260301090T/abstract).
 - Tejeda & Toalá<br>"Geometric Correction for Wind Accretion in Binary Systems."<br>[*ApJ*, 980, 2, 226 (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJ...980..226T/abstract).
 - Steigerwald & Tejeda<br>"Bondi-Hoyle-Lyttleton Accretion in a Reactive Medium: Detonation Ignition and a Mechanism for Type Ia Supernova"<br>[*Phys. Rev. Lett.*, 127, 1, 011101 (2021)](https://ui.adsabs.harvard.edu/abs/2021PhRvL.127a1101S/abstract).
 - Aguayo-Ortiz, Tejeda, Sarbach, et al.<br>"Spherical accretion: Bondi, Michel and rotating black holes."<br>[*MNRAS*, 504, 4, 5039 (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.5039A/abstract).
