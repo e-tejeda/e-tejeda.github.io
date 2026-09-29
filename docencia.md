@@ -10,11 +10,11 @@ author_profile: true
 
 ## Cursos Impartidos
 
+**Fenomenos de Acreción en Astrofísica.** Curso de Maestría impartido en el Posgrado en Física (UMSNH) y en el Posgrado en Astrofísica (UNAM)
+[Temario](https://drive.google.com/file/d/1PjRX2MaTGJ0eBb6WDkXgYx0iWTlgKYDj/view) -  [Notas del curso](https://drive.google.com/file/d/1EeIBWe9oe7zwAF0U8ALIp42Trn2sdTKO/view?usp=sharing)
+
 **Astrofísica Relativista.** Curso de Maestría impartido en el Posgrado en Física (UMSNH) y en el Posgrado en Astrofísica (UNAM) 
 [Temario](https://drive.google.com/file/d/1W5rFVqYjNDaLkEpJEJ9V0K0kS3fNV6UY/view) - [Notas del curso](https://drive.google.com/file/d/1yQmT9zzKqYMRHWYgffIb6BxO0auvLiBJ/view)
-
-**Fenomenos de Acreción en Astrofísica.** Curso de Maestría impartido en el Posgrado en Física (UMSNH) y en el Posgrado en Astrofísica (UNAM)
-[Temario](https://drive.google.com/file/d/1PjRX2MaTGJ0eBb6WDkXgYx0iWTlgKYDj/view)
 
 **Cosmología.** Curso curricular del Posgrado en Astrofísica (UNAM)
 [Temario](https://drive.google.com/file/d/1cc9kGW2azrrP5qzK1eeAmUYbvcaeKrAl/view)
