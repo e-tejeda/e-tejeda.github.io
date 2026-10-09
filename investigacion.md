@@ -24,7 +24,7 @@ Desarrollo e implementación de modelos y herramientas numéricas para capturar 
 - Tejeda, Aguayo-Ortiz & Hernandez<br>"Choked Accretion onto a Schwarzschild Black Hole: A Hydrodynamical Jet-launching Mechanism."<br>[*ApJ*, 893, 1, 81 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...893...81T/).
 - Tejeda, Gafton, Rosswog, et al.<br>"Tidal disruptions by rotating black holes: relativistic hydrodynamics with Newtonian codes."<br>[*MNRAS*, 469, 4, 4483 (2017)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.469.4483T/abstract).
 - Sądowski, Tejeda, Gafton, et al.<br>"Magnetohydrodynamical simulations of a tidal disruption in general relativity."<br>[*MNRAS*, 458, 4, 4250 (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.458.4250S/abstract).
-- Tejeda & Rosswog<br>"An accurate Newtonian description of particle motion around a Schwarzschild black hol"<br>[*MNRAS*, 433, 3, 1930 (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.433.1930T/abstract).
+- Tejeda & Rosswog<br>"An accurate Newtonian description of particle motion around a Schwarzschild black hole"<br>[*MNRAS*, 433, 3, 1930 (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.433.1930T/abstract).
 
 ### Repositorios y bases de datos
 A continuación se presenta un acceso directo a la lista completa de publicaciones actualizadas en repositorios y bases de datos académicas:
