@@ -26,12 +26,12 @@ author:
     
 footer:
   links:
-    - label: "NASA / ADS"
+    - label: "SciX (ADS)"
       icon: "fas fa-fw fa-satellite"
-      url: "https://ui.adsabs.harvard.edu/public-libraries/rahLI8RyTbShGnUj2obzzQ"
+      url: "https://scixplorer.org/public-libraries/rahLI8RyTbShGnUj2obzzQ"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.es/citations?user=k_rEP1IAAAAJ&hl=es"
+      url: "https://scholar.google.com/citations?user=k_rEP1IAAAAJ"
 
 plugins:
   - jekyll-remote-theme
