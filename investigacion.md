@@ -30,6 +30,6 @@ Desarrollo e implementación de modelos y herramientas numéricas para capturar 
 A continuación se presenta un acceso directo a la lista completa de publicaciones actualizadas en repositorios y bases de datos académicas:
 
 - [SciX (ADS)](https://scixplorer.org/public-libraries/rahLI8RyTbShGnUj2obzzQ)
-- [Google Scholar](https://scholar.googles/citations?user=k_rEP1IAAAAJ&hl=es)
+- [Google Scholar](https://scholar.google.com/citations?user=k_rEP1IAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-9936-6165)
 - [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Tejeda,+E)
